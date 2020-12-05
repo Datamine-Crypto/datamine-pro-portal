@@ -1,14 +1,14 @@
 {
-    "name": "Datamine DeFi Network Pro",
-    "short_name": "Datamine DeFi Network Pro",
-    "icons": [
-        {
-            "src": "./android-chrome-96x96.png",
-            "sizes": "96x96",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
+	"name": "DeFi Analytics - Datamine Network",
+	"short_name": "DeFi Analytics - Datamine Network",
+	"icons": [
+		{
+			"src": "./android-chrome-96x96.png",
+			"sizes": "96x96",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#ffffff",
+	"background_color": "#ffffff",
+	"display": "standalone"
 }
