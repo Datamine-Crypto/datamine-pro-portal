@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "./static/css/main.7fada00e.chunk.css",
-    "main.js": "./static/js/main.bc2cff5c.chunk.js",
+    "main.js": "./static/js/main.4ef0f195.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.0725fd0d.js",
-    "static/js/2.eb0c58c0.chunk.js": "./static/js/2.eb0c58c0.chunk.js",
+    "static/js/2.cbb623d1.chunk.js": "./static/js/2.cbb623d1.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.eb0c58c0.chunk.js.LICENSE.txt": "./static/js/2.eb0c58c0.chunk.js.LICENSE.txt",
+    "static/js/2.cbb623d1.chunk.js.LICENSE.txt": "./static/js/2.cbb623d1.chunk.js.LICENSE.txt",
+    "static/media/discordWhite.b360207e.svg": "./static/media/discordWhite.b360207e.svg",
     "static/media/ethereum.dbf989a4.svg": "./static/media/ethereum.dbf989a4.svg",
     "static/media/logo.7cc0c0ae.svg": "./static/media/logo.7cc0c0ae.svg",
     "static/media/uniswap.59d66f08.svg": "./static/media/uniswap.59d66f08.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0725fd0d.js",
-    "static/js/2.eb0c58c0.chunk.js",
+    "static/js/2.cbb623d1.chunk.js",
     "static/css/main.7fada00e.chunk.css",
-    "static/js/main.bc2cff5c.chunk.js"
+    "static/js/main.4ef0f195.chunk.js"
   ]
 }
