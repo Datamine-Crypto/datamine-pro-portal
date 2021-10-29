@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "./static/css/main.7fada00e.chunk.css",
-    "main.js": "./static/js/main.5b0787aa.chunk.js",
+    "main.js": "./static/js/main.c3fc73fe.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.0725fd0d.js",
-    "static/js/2.12cc8927.chunk.js": "./static/js/2.12cc8927.chunk.js",
+    "static/js/2.7cb90ee2.chunk.js": "./static/js/2.7cb90ee2.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.12cc8927.chunk.js.LICENSE.txt": "./static/js/2.12cc8927.chunk.js.LICENSE.txt",
-    "static/media/arbitrum.17b74749.svg": "./static/media/arbitrum.17b74749.svg",
+    "static/js/2.7cb90ee2.chunk.js.LICENSE.txt": "./static/js/2.7cb90ee2.chunk.js.LICENSE.txt",
     "static/media/discordWhite.b360207e.svg": "./static/media/discordWhite.b360207e.svg",
     "static/media/ethereum.dbf989a4.svg": "./static/media/ethereum.dbf989a4.svg",
-    "static/media/ethereumPurple.5a5de20b.svg": "./static/media/ethereumPurple.5a5de20b.svg",
     "static/media/logo.7cc0c0ae.svg": "./static/media/logo.7cc0c0ae.svg",
     "static/media/uniswap.59d66f08.svg": "./static/media/uniswap.59d66f08.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0725fd0d.js",
-    "static/js/2.12cc8927.chunk.js",
+    "static/js/2.7cb90ee2.chunk.js",
     "static/css/main.7fada00e.chunk.css",
-    "static/js/main.5b0787aa.chunk.js"
+    "static/js/main.c3fc73fe.chunk.js"
   ]
 }
