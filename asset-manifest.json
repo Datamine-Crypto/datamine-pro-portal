@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "./static/css/main.8b13c98d.chunk.css",
-    "main.js": "./static/js/main.dd3e0eca.chunk.js",
+    "main.js": "./static/js/main.fbb48fd8.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.0725fd0d.js",
     "static/js/2.e681ff92.chunk.js": "./static/js/2.e681ff92.chunk.js",
     "index.html": "./index.html",
     "static/js/2.e681ff92.chunk.js.LICENSE.txt": "./static/js/2.e681ff92.chunk.js.LICENSE.txt",
+    "static/media/arbitrum.17b74749.svg": "./static/media/arbitrum.17b74749.svg",
     "static/media/discordWhite.b360207e.svg": "./static/media/discordWhite.b360207e.svg",
     "static/media/ethereum.dbf989a4.svg": "./static/media/ethereum.dbf989a4.svg",
     "static/media/logo.7cc0c0ae.svg": "./static/media/logo.7cc0c0ae.svg",
@@ -15,6 +16,6 @@
     "static/js/runtime-main.0725fd0d.js",
     "static/js/2.e681ff92.chunk.js",
     "static/css/main.8b13c98d.chunk.css",
-    "static/js/main.dd3e0eca.chunk.js"
+    "static/js/main.fbb48fd8.chunk.js"
   ]
 }
