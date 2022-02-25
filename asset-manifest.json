@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.13837a0e.chunk.css",
-    "main.js": "./static/js/main.d95faf05.chunk.js",
+    "main.js": "./static/js/main.8101f494.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.0725fd0d.js",
     "static/js/2.52f984b6.chunk.js": "./static/js/2.52f984b6.chunk.js",
     "index.html": "./index.html",
@@ -9,6 +9,7 @@
     "static/media/arbitrum.17b74749.svg": "./static/media/arbitrum.17b74749.svg",
     "static/media/discordWhite.b360207e.svg": "./static/media/discordWhite.b360207e.svg",
     "static/media/ethereum.dbf989a4.svg": "./static/media/ethereum.dbf989a4.svg",
+    "static/media/ethereumPurple.5a5de20b.svg": "./static/media/ethereumPurple.5a5de20b.svg",
     "static/media/logo.7cc0c0ae.svg": "./static/media/logo.7cc0c0ae.svg",
     "static/media/metamask.c3b055bc.svg": "./static/media/metamask.c3b055bc.svg",
     "static/media/sushiSwap.ff9a7c71.svg": "./static/media/sushiSwap.ff9a7c71.svg",
@@ -18,6 +19,6 @@
     "static/js/runtime-main.0725fd0d.js",
     "static/js/2.52f984b6.chunk.js",
     "static/css/main.13837a0e.chunk.css",
-    "static/js/main.d95faf05.chunk.js"
+    "static/js/main.8101f494.chunk.js"
   ]
 }
