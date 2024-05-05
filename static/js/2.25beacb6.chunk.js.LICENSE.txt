@@ -6,8 +6,8 @@ object-assign
 
 /*!
  * @license
- * TradingView Lightweight Charts v3.8.0
- * Copyright (c) 2020 TradingView, Inc.
+ * TradingView Lightweight Charts™ v4.1.3
+ * Copyright (c) 2024 TradingView, Inc.
  * Licensed under Apache License 2.0 https://www.apache.org/licenses/LICENSE-2.0
  */
 
