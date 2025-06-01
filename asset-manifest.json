@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "./static/css/main.92049714.chunk.css",
-    "main.js": "./static/js/main.5733e4c4.chunk.js",
+    "main.js": "./static/js/main.c95b322f.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.0725fd0d.js",
-    "static/js/2.b57dd9d7.chunk.js": "./static/js/2.b57dd9d7.chunk.js",
+    "static/js/2.9ea044b7.chunk.js": "./static/js/2.9ea044b7.chunk.js",
     "index.html": "./index.html",
-    "static/js/2.b57dd9d7.chunk.js.LICENSE.txt": "./static/js/2.b57dd9d7.chunk.js.LICENSE.txt",
+    "static/js/2.9ea044b7.chunk.js.LICENSE.txt": "./static/js/2.9ea044b7.chunk.js.LICENSE.txt",
     "static/media/arbitrum.17b74749.svg": "./static/media/arbitrum.17b74749.svg",
     "static/media/discordWhite.b360207e.svg": "./static/media/discordWhite.b360207e.svg",
     "static/media/ethereum.dbf989a4.svg": "./static/media/ethereum.dbf989a4.svg",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0725fd0d.js",
-    "static/js/2.b57dd9d7.chunk.js",
+    "static/js/2.9ea044b7.chunk.js",
     "static/css/main.92049714.chunk.css",
-    "static/js/main.5733e4c4.chunk.js"
+    "static/js/main.c95b322f.chunk.js"
   ]
 }
