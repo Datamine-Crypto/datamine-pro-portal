@@ -1,0 +1,1 @@
+import{H as e}from"./generateUtilityClasses-CO0psK_V.js";import{t}from"./createSvgIcon-CQaJDEzi.js";var n=t((0,e().jsx)(`path`,{d:`m4 12 1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8z`}),`ArrowUpward`);export{n as t};

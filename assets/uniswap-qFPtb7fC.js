@@ -1,0 +1,1 @@
+var e=`/assets/uniswap-y_7r154t.svg`;export{e as t};
