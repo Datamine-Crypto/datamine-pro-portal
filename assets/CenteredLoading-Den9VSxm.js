@@ -1,1 +1,0 @@
-import{H as e}from"./generateUtilityClasses-CO0psK_V.js";import{Q as t}from"./index-CMEUlIOS.js";var n=e(),r=()=>(0,n.jsx)(`div`,{style:{display:`flex`,justifyContent:`center`,alignItems:`center`,height:`100vh`,width:`100%`},children:(0,n.jsx)(t,{style:{color:`#0ff`}})});export{r as default};

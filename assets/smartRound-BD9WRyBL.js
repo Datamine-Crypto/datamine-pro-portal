@@ -1,1 +1,0 @@
-import{a as e}from"./coinFormats-BOOEpPnu.js";var t=t=>e(t<=0?t.toFixed(0):t<1e-6?t.toFixed(8):t<1e-5?t.toFixed(7):t<1e-4?t.toFixed(6):t<.001?t.toFixed(5):t<1?t.toFixed(4):t.toFixed(2));export{t};
