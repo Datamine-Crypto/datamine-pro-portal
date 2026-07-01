@@ -16,8 +16,28 @@
 			svg > g > g:last-child {
 				pointer-events: none;
 			}
+
+			#old-version-container {
+				color: #fff;
+				display: none;
+				height: 100vh;
+				text-align: center;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				font-family: sans-serif;
+			}
+
+			#old-version-container.old-version-display {
+				display: flex;
+			}
+
+			#old-version-button {
+				margin: 32px;
+				padding: 8px 32px;
+			}
 		</style>
-		<script type="module" crossorigin src="/datamine-pro-portal/assets/index-CmydPoBI.js"></script>
+		<script type="module" crossorigin src="/datamine-pro-portal/assets/index-97CCCQGO.js"></script>
 		<link rel="modulepreload" crossorigin href="/datamine-pro-portal/assets/generateUtilityClasses-CO0psK_V.js">
 		<link rel="modulepreload" crossorigin href="/datamine-pro-portal/assets/utils-BE5impjb.js">
 		<link rel="modulepreload" crossorigin href="/datamine-pro-portal/assets/useSlot-BgPSm2fA.js">
@@ -34,16 +54,28 @@
 
 	<body style="background: #202336">
 		<noscript>You need to enable JavaScript to run this app.</noscript>
-		<div id="root"></div>
-		<!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
+		<div id="root">
+			<div id="old-version-container">
+				<div>This dashboard version is out of date ...</div>
+				<div>
+					<button id="old-version-button">Reload New Version</button>
+				</div>
+			</div>
+		</div>
+		<script type="text/javascript">
+			setTimeout(function () {
+				var oldVersionContainer = document.getElementById('old-version-container');
+				if (oldVersionContainer) {
+					oldVersionContainer.className = 'old-version-display';
+				}
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
+				var oldVersionButton = document.getElementById('old-version-button');
+				if (oldVersionButton) {
+					oldVersionButton.onclick = function () {
+						window.location.href = '?' + new Date().getTime();
+					};
+				}
+			}, 2000);
+		</script>
 	</body>
 </html>
